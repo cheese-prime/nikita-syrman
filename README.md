@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nikita-syrman
+- 👀 I’m interested in 3D Computer Graphics Programming
+- 🌱 I’m currently learning OpenGL using lwjgl
